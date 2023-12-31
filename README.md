@@ -1,0 +1,2 @@
+# debloat-win
+Begone, bloatware!
